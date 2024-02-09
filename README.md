@@ -10,6 +10,8 @@
 - `git add .`: seleccionar todos los archivos no guardados para hacer un commit
 - `git add x`: seleccionar un archivo x para ser guardado en el commit
 - `git commit -m "mensaje"`: guardar los cambios seleccionados en una version con una descripcion
+- `git log`: ver el historial de versiones
+- `git checkout x`: ir a la version/commit x
 
 # javascript
 - `npm create vite@latest`: me crea un proyecto
