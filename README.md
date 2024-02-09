@@ -12,6 +12,9 @@
 - `git commit -m "mensaje"`: guardar los cambios seleccionados en una version con una descripcion
 - `git log`: ver el historial de versiones
 - `git checkout x`: ir a la version/commit x
+- `git branch -M main`: cambia el nombre de la rama actual a main
+- `git remote add origin https://github.com/x/x.git`: conecta tu proyecto a un repositorio de github
+- `git push -u origin main`: sube los cambios de tu repositorio local a github
 
 # javascript
 - `npm create vite@latest`: me crea un proyecto
